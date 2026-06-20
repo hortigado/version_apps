@@ -1,0 +1,24 @@
+{
+  "windows": {
+    "version": { "minimum": "1.0.64", "latest": "1.0.64" },
+    "download_url": "ms-windows-store://pdp/?ProductId=9nv7bcjk8c2t",
+    "status": {
+      "active": true,
+      "message": {
+        "en": "App is in maintanence mode, please come back later.",
+        "es": "La aplicación está en modo de mantenimiento, vuelva más tarde."
+      }
+    }
+  },
+  "macOS": {
+    "version": { "minimum": "1.0.64", "latest": "1.0.64" },
+    "download_url": "ms-windows-store://pdp/?ProductId=9nv7bcjk8c2t",
+    "status": {
+      "active": true,
+      "message": {
+        "en": "App is in maintanence mode, please come back later.",
+        "es": "La aplicación está en modo de mantenimiento, vuelva más tarde."
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "windows": {
-    "version": { "minimum": "1.0.64", "latest": "1.0.64" },
-    "download_url": "ms-windows-store://pdp/?ProductId=9nv7bcjk8c2t",
+    "version": { "minimum": "1.0.65", "latest": "1.0.65" },
+    "download_url": "ms-windows-store://pdp/?productid=9PFBFXTQKTGZ",
     "status": {
       "active": true,
       "message": {
@@ -12,7 +12,7 @@
   },
   "macOS": {
     "version": { "minimum": "1.0.64", "latest": "1.0.64" },
-    "download_url": "macappstore://itunes.apple.com/app/id6743422380",
+    "download_url": "macappstore://itunes.apple.com/app/id6752305510",
     "status": {
       "active": true,
       "message": {
